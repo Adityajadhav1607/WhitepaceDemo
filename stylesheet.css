@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar Css */
+.navbar{
+    background-color: #043873;
+    padding: 10px;
+}
+.navbar-container{
+    margin-inline: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    color: white;
+    display: flex;
+    border: 2px solid white;
+    gap: 10px;
+}
+.logo-img{
+    height: 30px;
+    margin-top: 5px;
+}
+.nav-button{
+    padding:  10px;
+    border: 2px solid rgb(114, 217, 232);
+    display: flex;
+    gap: 20px;
+}
+.nav-select{
+    border: 2px solid white;
+
+}
+#nav-b{
+    background-color: #043873;
+}
+.l-t-button{
+    border: 2px solid white;
+}
